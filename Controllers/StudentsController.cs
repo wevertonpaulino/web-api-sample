@@ -10,7 +10,7 @@ using WebApiStudent.Models;
 
 namespace WebApiStudent.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Students")]
     [ApiController]
     public class StudentsController : ControllerBase
     {
